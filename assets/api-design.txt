@@ -1,0 +1,20 @@
+/admin/
+- {POST}
+
+/admin/login
+- {POST}
+
+/bible-info/
+- {GET}
+
+/bible/BOOK_CODE?version=N&format=TYPE
+- {GET} application/json
+
+/subscribed-user/register
+- {POST}
+
+/subscribed-user/
+- {POST}  = create
+
+/subscribed-user/:id
+- {GET} = 

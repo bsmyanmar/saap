@@ -1,0 +1,27 @@
+[
+    { 
+        "id" : "2", 
+        "bible_code" : "khualsim", 
+        "book_code" : "GEN", 
+        "chapter_number" : "1", 
+        "verse_number" : "1", 
+        "content" : "A hramthawh ih Pathian ni vanpawl leh vulei a seemsuah a’khin," 
+    },
+    { 
+        "id" : "4", 
+        "bible_code" : "khualsim", 
+        "book_code" : "GEN", 
+        "chapter_number" : "1", 
+        "verse_number" : "2", 
+        "content" : "vulei cu pianthlai ngeilo kualawngpi a ii ih khuamaw ni a thuknang cu a khum, culeh Pathian thlarau cu tipawl ih muihmai cungah a leng." 
+    },
+    { 
+        "id" : "6", 
+        "bible_code" : "khualsim", 
+        "book_code" : "GEN", 
+        "chapter_number" : "1", 
+        "verse_number" : "3", 
+        "content" : "Cutikah Pathian ni, “Khuatleu om seh,” tiah a ti; culeh khuatleu cu a om." 
+    },
+    ...
+]

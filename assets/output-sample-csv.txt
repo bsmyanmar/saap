@@ -1,0 +1,5 @@
+book_code|chapter_number|verse_number|content
+GEN|1|1|A hramthawh ih Pathian ni vanpawl leh vulei a seemsuah a’khin,
+GEN|1|2|vulei cu pianthlai ngeilo kualawngpi a ii ih khuamaw ni a thuknang cu a khum, culeh Pathian thlarau cu tipawl ih muihmai cungah a leng.
+GEN|1|3|Cutikah Pathian ni, “Khuatleu om seh,” tiah a ti; culeh khuatleu cu a om.
+...
