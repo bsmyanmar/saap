@@ -6,15 +6,13 @@
 
 **Tech used:** React, NodeJS, MySQL
 
-**Deadline:** 1st December 2023
-
 **Wireframe:** [SAAP Figma](https://www.figma.com/file/wpL70RnSDaEgL4etThGDXl/SAAP?type=design&node-id=6%3A173&mode=design&t=Z6JwZ517IzMyUrAt-1)
 
 This project aims to have a platform where Scripture texts are managed and made accessible to any platform via API.
 
 ## Module 1: Administrator Account User
 - The platform can be authenticated by Administrator Account User.
-- Administrator Account Users can be created, updated, deleted except for the root Administrator Account.
+- Administrator Account Users can be created, updated, and deleted except for the root Administrator Account.
 - Only the root Administrator Account reset their passwords.
 
 ## Module 2: Bible
